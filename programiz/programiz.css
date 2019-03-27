@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    background-color: #252830;
+    
+}
+header{
+    margin:0px;
+    height: 90px;
+    background-color: white;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.fa-crown{
+ position: absolute;
+    top: 35px;
+    left: 40px;
+    font-size: 40px;
+}
+.fa-home{
+    font-size: 20px;
+}
+.head{
+    padding-top: 30px;
+}
+
+ ul.left li{
+     padding-left: 10px;
+     border-left: 1px solid gray;
+     display: inline;
+     padding-right: 0px;
+     font-family: 'Roboto', sans-serif;
+}
+ul.left{
+    position: absolute;
+    top: 10px;
+    left: 770px;
+}
+.right li{
+    display: inline;
+    padding-right: 10px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 60px;
+}
+.right li:hover{
+    background-color:darkmagenta;
+/*    padding: 32px 10px 18px 10px*/
+    cursor: pointer;
+}
+.fa-search{
+    padding-left: 400px;;
+    font-size: 20px;
+}
+.right{
+    color: white;
+    padding: 30px 10px 30px 100px;
+    height: 10px;
+    background-color: #2c394b;
+}
+.table{
+    padding-left: 20px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+article{
+    text-align: center;
+}
+.article{
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height:1em;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 10px;
+    padding: 0px 10px 10px 40px;
+    width:700px;
+    float: left;
+    border-color: #fafafa;
+}
+.head{
+  margin-bottom: -10px;
+   font-size: 40px;
+    word-spacing: 20px;
+}
+.heads{
+    font-size: 20px;
+    line-height: 1em;
+}
+aside{
+   
+    height: 300px;
+    width: 250px;
+    border: 1px solid gray;
+    margin-top: 0px;
+    margin-left: 760px;
+}
+a{
+    color: #7d6a70;
+}
+.wrapper{
+    width: 1050px;
+    margin-left: 100px;
+    background-color: white;
+    height: 10000px;
+}
+footerb{
+    color: white;
+    width: 1050px;;
+    position: absolute;
+    top: 1400px;
+    left: 100px;
+    background-color: #2c394b;
+    height: 300px;
+}
+table{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.footerb, td ,th{
+    padding: 0px 10px 0px 20px;
+}
+
+td{
+    margin-right:10px;
+}
+footer{
+    background-color: #24445e;
+    padding: 0px 0px 0px 180px;;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+}
+aside li{
+    font-size: 18px;
+    padding: 10px 0px 10px 0px;
+}
